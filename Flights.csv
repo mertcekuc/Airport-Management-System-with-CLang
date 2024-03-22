@@ -1,0 +1,4 @@
+FlightNo,Destination,numEcon,numBus,limitEcon,limitBus,Date,Time
+A59552,Ankara,0,0,250,50,28/12/2022,12:30
+B06528,Istanbul,0,0,250,50,29/12/2022,14:15
+C93429,Izmir,0,0,250,50,01/01/2023,00:00
